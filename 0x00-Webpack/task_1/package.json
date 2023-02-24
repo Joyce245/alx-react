@@ -1,0 +1,22 @@
+{
+  "name": "task_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "semistandard": "^16.0.1"
+  },
+  "devDependencies": {
+    "jquery": "^3.6.3",
+    "lodash": "^4.17.21",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "description": ""
+}
