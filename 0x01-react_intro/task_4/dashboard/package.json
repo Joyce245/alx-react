@@ -2,7 +2,7 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://codewithmide.github.io/alx-react/0x01-react_intro/dashboard/build/",
+  "homepage": "http://Joyce245.github.io/alx-react/0x01-react_intro/dashboard/build/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
