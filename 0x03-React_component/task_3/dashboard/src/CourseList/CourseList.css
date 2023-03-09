@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid rgb(102, 91, 91);
+    margin-top: 5rem;
+}
+
+th {
+    border-bottom: 1px solid rgb(102, 91, 91);
+    text-align: left;
+}
+
+th[colspan="2"]{
+    text-align: center;
+}
